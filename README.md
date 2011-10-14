@@ -1,15 +1,24 @@
+#JQuery Inline Console#
 
-JQuery Inline Console
------------
 
 JQuery Inline Console is a simple console for obsolete browser like IE < 7.
 
 The main features are:
-- Simple instalation
-- Evaluate expressions
-- Show objects details
-- Show expression properties (like auto-complete)
 
+ * Simple instalation
+ * Evaluate expressions
+ * Show objects details
+ * Show expression properties (like auto-complete)
+
+## Installation ##
+
+```html
+<script type="text/javascript" src="jquery.inline-console.js"></script>
+```
+
+
+
+## Licence ##
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
